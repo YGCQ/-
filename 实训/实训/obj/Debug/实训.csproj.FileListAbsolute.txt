@@ -1,0 +1,40 @@
+d:\Documents\我的文档\Visual Studio 2012\Projects\实训\bin\Debug\实训.exe.config
+d:\Documents\我的文档\Visual Studio 2012\Projects\实训\bin\Debug\实训.exe
+d:\Documents\我的文档\Visual Studio 2012\Projects\实训\bin\Debug\实训.pdb
+d:\Documents\我的文档\Visual Studio 2012\Projects\实训\obj\Debug\实训.csprojResolveAssemblyReference.cache
+d:\Documents\我的文档\Visual Studio 2012\Projects\实训\obj\Debug\实训.Form1.resources
+d:\Documents\我的文档\Visual Studio 2012\Projects\实训\obj\Debug\实训.Properties.Resources.resources
+d:\Documents\我的文档\Visual Studio 2012\Projects\实训\obj\Debug\实训.csproj.GenerateResource.Cache
+d:\Documents\我的文档\Visual Studio 2012\Projects\实训\obj\Debug\实训.exe
+d:\Documents\我的文档\Visual Studio 2012\Projects\实训\obj\Debug\实训.pdb
+d:\Documents\我的文档\Visual Studio 2012\Projects\实训\obj\Debug\实训.Form2.resources
+C:\Users\Administrator\Desktop\实训\实训\bin\Debug\实训.exe.config
+C:\Users\Administrator\Desktop\实训\实训\obj\Debug\实训.exe
+C:\Users\Administrator\Desktop\实训\实训\obj\Debug\实训.pdb
+C:\Users\Administrator\Desktop\实训\实训\obj\Debug\实训.login.resources
+C:\Users\Administrator\Desktop\实训\实训\obj\Debug\实训.Properties.Resources.resources
+C:\Users\Administrator\Desktop\实训\实训\obj\Debug\实训.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\实训\实训\bin\Debug\实训.exe
+C:\Users\Administrator\Desktop\实训\实训\bin\Debug\实训.pdb
+C:\Users\Administrator\Desktop\实训\实训\obj\Debug\实训.MainFormUser.resources
+C:\Users\Administrator\Desktop\实训\实训\obj\Debug\实训.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\实训\实训\obj\Debug\实训.Registered.resources
+C:\Users\小小\Desktop\学校\实训\实训\bin\Debug\实训.exe.config
+C:\Users\小小\Desktop\学校\实训\实训\bin\Debug\实训.exe
+C:\Users\小小\Desktop\学校\实训\实训\bin\Debug\实训.pdb
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.csprojResolveAssemblyReference.cache
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.login.resources
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.MainFormUser.resources
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.Properties.Resources.resources
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.Registered.resources
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.csproj.GenerateResource.cache
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.csproj.CoreCompileInputs.cache
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.exe
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.pdb
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.PasswprdForm.resources
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.QueryForm.resources
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.HeadDetails.resources
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.MainFormAdmin.resources
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.QuerHeadForm.resources
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.adminPWD.resources
+C:\Users\小小\Desktop\学校\实训\实训\obj\Debug\实训.RegiCheck.resources
